@@ -1,0 +1,11 @@
+[
+{"condition_short": "Chance Showers", "temperature": "Low: 70 \u00b0F", "condition_long": "Overnight: A 40 percent chance of showers.  Cloudy, with a low around 70. South wind around 6 mph. ", "period": "Overnight"},
+{"condition_short": "Chance Showers then Slight Chance T-storms", "temperature": "High: 80 \u00b0F", "condition_long": "Tuesday: A chance of showers, with thunderstorms also possible after noon.  Cloudy, with a high near 80. Southeast wind 5 to 8 mph.  Chance of precipitation is 30%.", "period": "Tuesday"},
+{"condition_short": "Decreasing Clouds", "temperature": "Low: 71 \u00b0F", "condition_long": "Tuesday Night: Mostly cloudy, then gradually becoming mostly clear, with a low around 71. South wind around 5 mph becoming calm  in the evening. ", "period": "Tuesday Night"},
+{"condition_short": "Sunny", "temperature": "High: 89 \u00b0F", "condition_long": "Wednesday: Sunny, with a high near 89. Northwest wind 5 to 7 mph. ", "period": "Wednesday"},
+{"condition_short": "Partly Cloudy", "temperature": "Low: 69 \u00b0F", "condition_long": "Wednesday Night: Partly cloudy, with a low around 69. Northwest wind around 6 mph becoming light and variable. ", "period": "Wednesday Night"},
+{"condition_short": "Mostly Sunny", "temperature": "High: 81 \u00b0F", "condition_long": "Thursday: Mostly sunny, with a high near 81.", "period": "Thursday"},
+{"condition_short": "Chance Showers", "temperature": "Low: 73 \u00b0F", "condition_long": "Thursday Night: A 40 percent chance of showers after 8pm.  Mostly cloudy, with a low around 73.", "period": "Thursday Night"},
+{"condition_short": "Chance Showers", "temperature": "High: 84 \u00b0F", "condition_long": "Friday: A 40 percent chance of showers.  Mostly cloudy, with a high near 84.", "period": "Friday"},
+{"condition_short": "Chance Showers", "temperature": "Low: 72 \u00b0F", "condition_long": "Friday Night: A 40 percent chance of showers.  Mostly cloudy, with a low around 72.", "period": "Friday Night"}
+]
